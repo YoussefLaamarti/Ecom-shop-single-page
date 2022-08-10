@@ -6,6 +6,6 @@
 <li><b> Deployed Via Cloudflare</li> </b> <br/>
 <li> <b> LIVE DEMO : https://ecom-single.pages.dev/ </b> </li>
 
-<br/>![image](https://user-images.githubusercontent.com/88171482/183729949-295de6b4-425a-44cd-859e-df362d4ffd18.png)
+<br/>![image](https://user-images.githubusercontent.com/88171482/183808874-306b920e-3e00-4c56-b9d5-fa55b9f66946.png)
 
 </ul>
